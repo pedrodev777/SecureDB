@@ -1,0 +1,33 @@
+{
+  "name": "secure-db",
+  "version": "1.4.1",
+  "description": "An encrypted local JSON database package.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"SecureDB - 1.4.1\""
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "encrypted",
+    "db",
+    "database",
+    "secure",
+    "json",
+    "no-sql",
+    "fs",
+    "data",
+    "local"
+  ],
+  "homepage": "https://github.com/DablioZe/SecureDB#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DablioZe/SecureDB.git"
+  },
+  "author": "dablioze",
+  "license": "MIT"
+}
